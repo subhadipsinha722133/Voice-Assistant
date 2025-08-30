@@ -1,0 +1,5 @@
+streamlit
+SpeechRecognition
+pyttsx3
+wikipedia
+pyjokes
