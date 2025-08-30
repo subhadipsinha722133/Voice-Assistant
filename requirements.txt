@@ -1,5 +1,8 @@
+datetime
+espeak-ng
 streamlit
 SpeechRecognition
 pyttsx3
 wikipedia
 pyjokes
+time
